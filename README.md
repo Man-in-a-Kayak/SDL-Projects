@@ -14,6 +14,6 @@ A repository of my attempts to learn SDL
     - Ex: `git clone https://github.com/Man-in-a-Kayak/SDL-Projects.git`
   - Navigate into folder
   - Build with CMake
-    - `cmake -S . -B build
+    - `cmake -S . -B build`
   - Choose project you'd like to build with `--target project-name`
     - Ex. `cmake --build build --target project-1`
