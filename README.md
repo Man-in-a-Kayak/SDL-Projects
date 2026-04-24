@@ -11,7 +11,7 @@ A repository of my attempts to learn SDL
 ### Unix / MacOS
   - Create a new folder to clone this repository
   - Clone this repository
-    - Ex: `git clone temp`
+    - Ex: `git clone https://github.com/Man-in-a-Kayak/SDL-Projects.git`
   - Navigate into folder
   - Build with CMake
     - `cmake -S . -B build
