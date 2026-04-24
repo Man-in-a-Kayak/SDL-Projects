@@ -8,5 +8,12 @@ A repository of my attempts to learn SDL
 
 ## Building this repository
 
-Clone the repository:
-temp
+### Unix / MacOS
+  - Create a new folder to clone this repository
+  - Clone this repository
+    - Ex: `git clone temp`
+  - Navigate into folder
+  - Build with CMake
+    - `cmake -S . -B build
+  - Choose project you'd like to build with `--target project-name`
+    - Ex. `cmake --build build --target project-1`
