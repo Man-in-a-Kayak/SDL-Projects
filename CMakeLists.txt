@@ -15,5 +15,6 @@ FetchContent_MakeAvailable(sdl_3)
 
 add_subdirectory(src/project-1)
 add_subdirectory(src/project-2)
+add_subdirectory(src/project-3)
 
 
