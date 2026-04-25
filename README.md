@@ -17,3 +17,6 @@ A repository of my attempts to learn SDL
     - `cmake -S . -B build`
   - Choose project you'd like to build with `--target project-name`
     - Ex. `cmake --build build --target project-1`
+   
+### Windows
+  - I'm not sure. Just try your best, I believe in you! 
